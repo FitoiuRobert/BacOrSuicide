@@ -1,0 +1,10 @@
+/*  Bootstrap overwrite */
+.navbar{
+  border-radius: 0px;
+}
+.nav-pills > li > a{
+  border-radius: 0px;
+}
+li>a{
+  overflow-x: auto;
+}
