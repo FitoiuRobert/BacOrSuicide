@@ -1,6 +1,6 @@
 <?php
 #Show Errors:
-#error_reporting(0);
+error_reporting(0);
 
 #Database connection:
 include ('../config/connection.php');

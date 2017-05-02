@@ -14,7 +14,7 @@ if(!isset($_SESSION['name'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?php title(); ?></title>
     <link rel="stylesheet" href="config/css/bootstrap.min.css">
-    <link rel="stylesheet" href="config/css/style.css">
+		<link rel="stylesheet" href="config/css/style.css">
 
   </head>
   <body>
