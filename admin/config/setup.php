@@ -15,5 +15,4 @@ if(!isset($_GET['page'])){
 #Functions:
 include ('functions/title.php');
 
-
 ?>
